@@ -1,4 +1,4 @@
-# GitHub User Finder  
+# HOT ON THE LOT  
 ***
 This is a project i did for an imaginary car dealership company where users can quickly filter and browse through different brand of cars currently present in the lot and 
 
